@@ -24,3 +24,5 @@ The app lets users **roll a dice** with a single tap, generating a random number
 - **State Management** (`remember`, `mutableStateOf`) ⚡
 - **Android Studio** 🏗️
 
+### 📷 App Screenshot
+![](.README_images/DiceRollerImage.png)
